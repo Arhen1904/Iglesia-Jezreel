@@ -3,7 +3,6 @@ import Presentation from "../components/Presentation/Presentation";
 import Ministers from "../components/Ministers/Ministers";
 import Bethel from "../components/Bethel/Bethel";
 import School from "../components/School/School";
-import Footer from "../components/Footer/Footer";
 
 const StyledSection = styled.section`
   width: 100%;
@@ -18,7 +17,6 @@ const Home = () => {
       <Ministers />
       <Bethel />
       <School />
-      <Footer />
     </StyledSection>
   );
 };

@@ -31,7 +31,7 @@ const Footer = () => {
         <StyledH2>Contáctenos:</StyledH2>
         <StyledH4>
           Dirección: Iglesia Ministerio Jezreel, Panamá, Juan Díaz El Sitio,
-          Diagonal a la Pascual <br /> Tel: 394 - 5900 <br /> E-mail:
+          Diagonal a la Pascual. <br /> Tel: 394 - 5900 <br /> E-mail:
           ministeriojezreel@hotmail.com
         </StyledH4>
       </TextWrapper>

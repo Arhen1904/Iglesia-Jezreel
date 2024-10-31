@@ -4,6 +4,7 @@ import Header from "./components/Header/Header";
 import Home from "./pages/Home";
 import History from "./pages/History";
 import Contact from "./pages/Contact";
+import Footer from "./components/Footer/Footer";
 
 const GlobalStyle = createGlobalStyle`
   body {
@@ -34,6 +35,7 @@ const App = () => {
           <Route path="/history" element={<History />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
+        <Footer />
       </Router>
     </>
   );

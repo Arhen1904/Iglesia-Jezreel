@@ -11,6 +11,8 @@ const StyledSection = styled.section`
   text-align: end;
   display: flex;
   justify-content: end;
+  border-top: 5px solid #b2783a;
+  border-bottom: 5px solid #b2783a;
 `;
 
 const BethelContainer = styled.div`
